@@ -78,3 +78,7 @@ animals.forEach(animal => animal.speak());
 // Output:
 // Woof!
 // Meow!
+
+
+//  Inheritance:
+
